@@ -180,3 +180,9 @@ button:hover {
     color: #1f2937;
     background-color: #F9faf8;
 }
+
+i {
+    border:#3882f6 solid 5px;
+    border-radius: 16px;
+    padding: 10px;
+}
